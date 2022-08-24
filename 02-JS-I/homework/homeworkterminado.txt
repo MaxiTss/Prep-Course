@@ -1,0 +1,27 @@
+Variables
+            Las Variables se puden explicar facilmente, una Variable la podemos tratar como "algo" que no tiene valor alguno ni nombre.
+             Nosotros estamos encargados de darle nombre y valor a esa Variable, a este proceso lo llamamos definir una Variables.
+             Ejemplo: Tenemos una Variable (var) y la queremos definir con el nombre de dolares y un valor de 100.
+
+             Primer paso, darle el nombre:  Var dolares 
+
+             Segundo paso, darle el valor:  Var dolares = 100;
+
+             El orden seria este var nombre = valor
+
+Strings
+        Un string es simplemente una expresion de texto Ejemplo 'Hola', 'Buen dia'.
+
+Funciones (Argumentos, Return)
+        Una Funcion es un objetos al que traemos o invocamos al codigo, este le dice al programa que tiene que hacer y
+        como hacerlo.
+        Argumentos: Los argumentos de una funcion es todo el contenido que conlleva la misma.
+        Return: El Return es valor que devuelve la funcion, y es la unica forma de acceder a ese valor.
+
+Declaraciones IF: Las declaraciones if son un flujo de codigo true o false, en el cual se ejecuta al primer valor true
+                    En el caso que el primer valor sea false no devuelve nada y pasa al siguiente valor, en el caso que
+                     tambien sea false pasa al siguiente valor y asi sucesivamente hasta que el valor sea true para devolverlo.
+
+Valores boolean: Los valores booleans se basan en codigo binario 0 y 1, en javascript se utiliza para definir si algo 
+                es true o false.        
+        
